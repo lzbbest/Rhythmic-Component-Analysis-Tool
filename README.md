@@ -2,6 +2,8 @@
 
 **Tutorial of RCAT**
 
+**Fig.S1**
+
 ![Alt text](https://github.com/lzbbest/Rhythmic-Component-Analysis-Tool/raw/master/Fig.S1.png)
 
 (i) Prepare input data in predefined format (Fig.S1 A).
