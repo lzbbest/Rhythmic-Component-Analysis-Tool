@@ -134,8 +134,8 @@ def cal(point,start,end,filenames):
         
         SND6 = np.array(detrendData2[db:ub+1])
         SND5 = np.array(detrendData1[db:ub+1])
-        #plt.figure()
-        #plt.scatter(SND5,SND6)
+        plt.figure()
+        plt.scatter(SND5,SND6)
         TT,ampamp,phapha = fft(SND5,SND6,ub,db)
         
         SNDy = SNDy * ampamp
@@ -209,7 +209,7 @@ def cal(point,start,end,filenames):
 
 ######################################
 '''
-f=['06_raw.csv']  # file path
+f=['F:\\luca\\xu\\C2-raw data(all).csv']  # file path
 (allresult, Pathlist) = cal(144,16,80,f)
 '''
 
