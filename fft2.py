@@ -208,8 +208,6 @@ def cal(point,start,end,filenames):
     return (all, allpath)
 
 ######################################
-'''
-f=['F:\\luca\\xu\\C2-raw data(all).csv']  # file path
-(allresult, Pathlist) = cal(144,16,80,f)
-'''
 
+f=['F:\\rcat\\siNC-1.csv']  # file path
+(allresult, Pathlist) = cal(144,16,80,f)
