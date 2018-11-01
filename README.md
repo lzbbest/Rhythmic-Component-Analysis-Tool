@@ -2,6 +2,10 @@
 
 **Tutorial of RCAT**
 
+Download RCAT.zip through 'release' page in our github.
+
+Release RCAT.zip and double click RCAT.exe to execute.
+
 **Fig.S1**
 
 ![Alt text](https://github.com/lzbbest/Rhythmic-Component-Analysis-Tool/raw/master/Fig.S1.png)
