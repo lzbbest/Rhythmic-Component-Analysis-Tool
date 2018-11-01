@@ -18,4 +18,4 @@
 
 (vi) Change the interval multiple times to get the best results.
 
-* For other systems, we provide source code (python) for data analysis.
+* For other systems, we provide source code (fft2.py) for data analysis. Users could install Anaconda to set environment and modify parameters in fft2.py for analysis.
