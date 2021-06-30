@@ -47,4 +47,6 @@ An instructional video (Video S1) is also provided for users to quickly use RCAT
 
 Notes: The names of file and filepath with time series data should be in English. Other languages will not be successfully decoded. Besides, if  more than 70% of all values are "0" in one sample, RCAT will be unable to perform analysis. Such kind of sample should be deleted in advance.
 
-Should there be any problem, please feel free to contact: mengm5@mail2.sysu.edu.cn.
+2021.06 update: we developed function that could be able to automatically detect unqualified input files and inform the user of result. Furthermore, we set a parameter as quality control, which could set parameters subjectively by user. 
+
+Should there be any problem, please feel free to contact: mengm5@mail2.sysu.edu.cn or liuzbbest@163.com
