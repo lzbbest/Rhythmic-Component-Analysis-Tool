@@ -63,7 +63,7 @@ def cal(point, start, end, minPeriod, maxPeriod, filenames, pic,up_percent_0=0.7
             row_list = []
             for index,row in df.iterrows():
                 row_list.append(row)
-                percent_0 = len(row[row==0])/len(row)
+                percent_0 = len(row[row==0])/float(len(row))
                 if percent_0 > up_percent_0:
                     print('{:.2%} of all values are "0" in {1} sample.'.format(percent_0,index))
                 else:
