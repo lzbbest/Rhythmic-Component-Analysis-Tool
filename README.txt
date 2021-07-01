@@ -10,7 +10,7 @@ We mainly use Anaconda (Python version 2.7.13) as the distribution for the recon
 
 Os, Sys, Numpy, Scipy, Pandas, Matplotlib, PyQt4, Shutil and Pyinstaller are the required Python packages. 
 
-These packages are needed to be installed before running code.
+These corresponding version of third-party packages are needed to be installed before running code.
 
 Parameters:
 
