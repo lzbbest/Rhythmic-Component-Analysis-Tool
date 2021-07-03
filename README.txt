@@ -6,11 +6,13 @@ RCAT.py is used to activate interface.
 
 mainwindow.ui is for designing layout of the interface.
 
-We mainly use Anaconda (Python version 2.7.13) as the distribution for the reconstruction of algorithms and mathematical models. 
+We mainly use Anaconda (Python version 2.7.13) which is a cross platform programming language as the distribution for the reconstruction of algorithms and mathematical models. 
 
 Os, Sys, Numpy, Scipy, Pandas, Matplotlib, PyQt4, Shutil and Pyinstaller are the required Python packages. 
 
-These corresponding version of third-party packages are needed to be installed before running code.
+If you would like to run or improve source code in Windows/Linux/Mac environment, these corresponding version of the third party packages are needed to be installed.
+
+The released version(RCAT_WIN.zip) integrates the Python development environment so that get out of the specific version of Python. And it runs successfully after three generations operating system: windows10, windows8 and windows7.
 
 Parameters:
 
